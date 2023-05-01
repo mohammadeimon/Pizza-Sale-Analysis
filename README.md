@@ -47,9 +47,9 @@ This pizza sales dataset make up 12 relevant features:
 
 # Analysis
 
-Analysis was done on SQL and visualized on Power BI. I chose to use SQL for the analysis because With SQL, you can analyze small and big datasets, investigate problems and generate sales reports faster. I uploaded the dataset first on SQL Server where I did all the analysis before visualizing it on Power BI.
+Analysis was done on SQL and visualized on Tableau. I used SQL to extract, transform and convert the Pizza data. I uploaded the dataset first on SQL Server where I did all the analysis before visualizing it on Tableau.
 
-This is the full [Analysis]([https://github.com/Ernest-30/Pizza-Sales-Analysis/blob/main/Pizza_Sales_Analysis.sql](https://github.com/mohammadeimon/SQLProjects/blob/main/PizzaRestaurant.sql))
+This is the full [Analysis]((https://github.com/mohammadeimon/SQLProjects/blob/main/PizzaRestaurant.sql))
 
 # Findings
 
