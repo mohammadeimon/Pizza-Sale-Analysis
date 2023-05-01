@@ -76,56 +76,30 @@ Average_revenue - $16.82
 
 ![2](https://user-images.githubusercontent.com/123791304/235463614-00cecfb6-900f-472d-90dd-4f5027a68bf8.jpg)
 
+- July is the top performing month with a total of 4,301 orders, 4,392 pizzas sold and revenue generation of $72,557.9. The least performing month is October with 3,797 orders, 3,883 quantities of pizza sold and revenue generation of $64,027.6.
+
 ![image](https://user-images.githubusercontent.com/123791304/235464579-86ee0cf0-c406-496c-b106-41fa2929449c.png)
+
+- Our overall best selling pizza is The Classic Deluxe Pizza. It was ordered 2,416 times, a total of 2,453 quanties was sold and it generated revenue of $38,180.5. The worst selling pizza is The Brie Carre Pizza	with a total of just 480 orders, 490 quantities made and revenue of	$11,588.5.
 
 ![4](https://user-images.githubusercontent.com/123791304/235464983-bfbb7f15-3d48-4988-8979-f53e20760be6.jpg)
 
+- The busiest days are Fridays and Saturdays (Beginning of the weekend). With Fridays having a total of 8,106 orders, 8,242 quantities of pizzas made, and revenue generation of $136,073.9. While on Saturdays, orders received was 7,355, with a total of 7,493 pizzas made and revenue generation of $123,182.4.
+
 ![5](https://user-images.githubusercontent.com/123791304/235464991-ad47a393-ee5c-4004-95d0-afb258c102b2.jpg)
+
+- The pizza category which is most in demand is the Classic	with 14,579 orders placed for it, 14,888 quantities sold and	$22,0053.1 revenue generated.
 
 ![6](https://user-images.githubusercontent.com/123791304/235465508-ec0c5d88-c4e5-4c50-a274-5e1b380af24b.jpg)
 
 
-
-
-
-
-
-
-The busiest days are Fridays and Saturdays (Beginning of the weekend). With Fridays having a total of 8,106 orders, 8,242 quantities of pizzas made, and revenue generation of $136,073.9. While on Saturdays, orders received was 7,355, with a total of 7,493 pizzas made and revenue generation of $123,182.4.
-
-![image](https://user-images.githubusercontent.com/123366282/226744064-93dcce67-19a0-4c77-abba-48ca3f012165.png)
-
-3. Our overall best selling pizza is The Classic Deluxe Pizza. It was ordered 2,416 times, a total of 2,453 quanties was sold and it generated revenue of $38,180.5. The worst selling pizza is The Brie Carre Pizza	with a total of just 480 orders, 490 quantities made and revenue of	$11,588.5.
-
-
-4. July is the top performing month with a total of 4,301 orders, 4,392 pizzas sold and revenue generation of $72,557.9. The least performing month is October with	3,797 orders, 3,883 quantities of pizza sold and revenue generation of $64,027.6.
-
-![image](https://user-images.githubusercontent.com/123366282/226751475-8d7a1b6b-e587-4a80-b71d-5bc0783906c8.png)
-
-
-
-
-6. The pizza category which is most in demand is the Classic	with 14,579 orders placed for it, 14,888 quantities sold and	$22,0053.1 revenue generated.  
-
-![image](https://user-images.githubusercontent.com/123366282/226753964-18c0aec4-645d-4bdb-886b-e3a8ae4609a0.png)
-
-
-7. Our best month in terms of Revenue is July with a total of $72,557.9
-
-![image](https://user-images.githubusercontent.com/123366282/226754466-248bf44b-8433-4e0f-bb6a-1ad14709fae4.png)
-
-
-8. Quick visualization for the Month on Month breakdown of our revenue vs orders;
-
-
-![image](https://user-images.githubusercontent.com/123366282/226755531-74e1836e-66ae-4444-95b5-00ae8bcfa163.png)
-
-
 # Visualization
 
-Please click [here](https://github.com/Ernest-30/Pizza-Sales-Analysis/blob/main/Pizza%20Sales%20Dashboard.pbix) to download the full Power BI dashboard. 
+[Tableau](https://public.tableau.com/app/profile/mohammad.eimon/viz/PizzaSaleDashboard/Dashboard1?publish=yes)
 
-![image](https://user-images.githubusercontent.com/123366282/226760738-b36c8ea4-7df3-4d80-8ed6-08b20238582e.png)
+![Pizza Dashboard image](https://user-images.githubusercontent.com/123791304/235468349-768e8bd7-5b3c-4481-9028-7514c6e78977.png)
+
+
 
 # Conclusion
 Pizza orders and revenue maintains an upward trajectory from the beginning of the week Sunday and peaks on Friday before it starts dropping, this means most people prefer to eat pizza towards and during the weekend. Most people prefer to have the Pepperoni pizza for lunch on Fridays. It is advisable to make available tables and chairs to be able to accomodate the influx of the weekend, we can also explore the option of delivery services. The Ingrdients for  Pepperoni pizza should be made readily available and in large quantities on or before Fridays. Since more orders are received on Fridays, a discount policy can be introduced every last Friday of the month where a customer gets 1 extra pizza when they buy 3 and above, this will encourage them to buy more. 
