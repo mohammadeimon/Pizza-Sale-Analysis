@@ -66,15 +66,30 @@ Total_revenue - $817,860.05
 Average_revenue - $16.82
 
 
-1. The busiest time of the day is between 12pm and 1pm which is Lunch period. For 12pm, a total of 6,543 orders was received, 6,776 quantites of Pizzas were made and revenue generated was $111,877.9 while for 1pm, a total of 6,203 orders was received, 6,413 quantities of Pizza made and revenue generated was $106,065.7.
+- The busiest time of the day is between 12pm and 1pm which is Lunch period. For 12pm, a total of 6,543 orders was received, 6,776 quantites of Pizzas were made and revenue generated was $111,877.9 while for 1pm, a total of 6,203 orders was received, 6,413 quantities of Pizza made and revenue generated was $106,065.7.
 
-![image](https://user-images.githubusercontent.com/123366282/226739580-1576c208-7c30-4aec-bbd0-c1b8d8517c40.png)
+![1](https://user-images.githubusercontent.com/123791304/235460344-ae56d76f-4852-4c0c-84df-5823d9172a40.PNG)
 
 
-2. The busiest days are Fridays and Saturdays (Beginning of the weekend). With Fridays having a total of 8,106 orders, 8,242 quantities of pizzas made, and revenue generation of $136,073.9. While on Saturdays, orders received was 7,355, with a total of 7,493 pizzas made and revenue generation of $123,182.4.
+- The highest sold pizza size is the Large Size with a total of 18,526 orders placed for it,	18,956 quantites sold and revenue generation of $375,318.7, the least sold pizza size is the XXL with just 28 orders, 28 quantities sold and $1,006.6 revenue generated.
+
+
+![2](https://user-images.githubusercontent.com/123791304/235463614-00cecfb6-900f-472d-90dd-4f5027a68bf8.jpg)
+
+![image](https://user-images.githubusercontent.com/123791304/235464579-86ee0cf0-c406-496c-b106-41fa2929449c.png)
+
+![4](https://user-images.githubusercontent.com/123791304/235464983-bfbb7f15-3d48-4988-8979-f53e20760be6.jpg)
+
+![5](https://user-images.githubusercontent.com/123791304/235464991-ad47a393-ee5c-4004-95d0-afb258c102b2.jpg)
+
+
+
+
+
+
+The busiest days are Fridays and Saturdays (Beginning of the weekend). With Fridays having a total of 8,106 orders, 8,242 quantities of pizzas made, and revenue generation of $136,073.9. While on Saturdays, orders received was 7,355, with a total of 7,493 pizzas made and revenue generation of $123,182.4.
 
 ![image](https://user-images.githubusercontent.com/123366282/226744064-93dcce67-19a0-4c77-abba-48ca3f012165.png)
-
 
 3. Our overall best selling pizza is The Classic Deluxe Pizza. It was ordered 2,416 times, a total of 2,453 quanties was sold and it generated revenue of $38,180.5. The worst selling pizza is The Brie Carre Pizza	with a total of just 480 orders, 490 quantities made and revenue of	$11,588.5.
 
@@ -84,10 +99,6 @@ Average_revenue - $16.82
 ![image](https://user-images.githubusercontent.com/123366282/226751475-8d7a1b6b-e587-4a80-b71d-5bc0783906c8.png)
 
 
-5. The highest sold pizza size is the Large Size with a total of 18,526 orders placed for it,	18,956 quantites sold and revenue generation of $375,318.7, the least sold pizza size is the XXL with just 28 orders, 28 quantities sold and $1,006.6 revenue generated.
-
-
-![image](https://user-images.githubusercontent.com/123366282/226752548-a707a388-a77a-46ee-b244-0be33d21d858.png)
 
 
 6. The pizza category which is most in demand is the Classic	with 14,579 orders placed for it, 14,888 quantities sold and	$22,0053.1 revenue generated.  
