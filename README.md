@@ -82,6 +82,10 @@ Average_revenue - $16.82
 
 ![5](https://user-images.githubusercontent.com/123791304/235464991-ad47a393-ee5c-4004-95d0-afb258c102b2.jpg)
 
+![6](https://user-images.githubusercontent.com/123791304/235465508-ec0c5d88-c4e5-4c50-a274-5e1b380af24b.jpg)
+
+
+
 
 
 
