@@ -94,7 +94,7 @@ Average_revenue - $16.82
 
 [Tableau](https://public.tableau.com/app/profile/mohammad.eimon/viz/PizzaSaleDashboard/Dashboard1?publish=yes)
 
-![Pizza Dashboard image](https://user-images.githubusercontent.com/123791304/235468349-768e8bd7-5b3c-4481-9028-7514c6e78977.png)
+![Pizza Dashboard image](https://user-images.githubusercontent.com/123791304/235674923-996ed9ff-8cd1-4463-b848-11a72f9f7133.png)
 
 
 
