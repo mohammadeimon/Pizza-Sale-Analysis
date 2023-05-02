@@ -33,7 +33,7 @@ This pizza sales dataset make up 12 relevant features:
 
   pizza_name: Name of the pizza as shown in the menu
 
-# Business Tasks
+# Business Objectives
 
 - What times do we tend to be busiest?
 - How many pizzas are we making during peak periods?
