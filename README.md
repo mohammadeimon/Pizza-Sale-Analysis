@@ -85,7 +85,7 @@ Average_revenue - $16.82
 
 ![5](https://user-images.githubusercontent.com/123791304/235464991-ad47a393-ee5c-4004-95d0-afb258c102b2.jpg)
 
-- The Classic pizza category is the most popular, with 14,579 orders placed for it. The restaurant sold a total of 14,888 pizzas from this category, resulting in revenue of $220,053.1.
+- The Classic pizza category is the most popular, with 14,579 orders placed for it. The restaurant sold a total of 14,888 pizzas from this category, resulting in revenue of $220,053.1. Image belows shows total number of order per category during the 12pm mark.
 
 ![6](https://user-images.githubusercontent.com/123791304/235465508-ec0c5d88-c4e5-4c50-a274-5e1b380af24b.jpg)
 
