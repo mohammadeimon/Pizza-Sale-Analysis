@@ -53,11 +53,11 @@ This is the full [Analysis]((https://github.com/mohammadeimon/SQLProjects/blob/m
 
 # Findings
 
-Year considered - 2015
-
-Total_Orders - 48,620	
+Year - 2015
 
 Number_of_pizza_types - 32	
+
+Total_Orders - 48,620	
 
 Total_Quantity_Sold	- 49,574
 
@@ -66,29 +66,28 @@ Total_revenue - $817,860.05
 Average_revenue - $16.82
 
 
-- The busiest time of the day is between 12pm and 1pm which is Lunch period. For 12pm, a total of 6,543 orders was received, 6,776 quantites of Pizzas were made and revenue generated was $111,877.9 while for 1pm, a total of 6,203 orders was received, 6,413 quantities of Pizza made and revenue generated was $106,065.7.
+- The period between 12pm and 1pm (lunchtime) is the most hectic time of the day. During 12pm, the restaurant received a total of 6,543 orders and made 6,776 pizzas, resulting in revenue of $111,877.9. At 1pm, the restaurant received 6,203 orders and made 6,413 pizzas, generating $106,065.7 in revenue.
 
 ![1](https://user-images.githubusercontent.com/123791304/235460344-ae56d76f-4852-4c0c-84df-5823d9172a40.PNG)
 
 
-- The highest sold pizza size is the Large Size with a total of 18,526 orders placed for it,	18,956 quantites sold and revenue generation of $375,318.7, the least sold pizza size is the XXL with just 28 orders, 28 quantities sold and $1,006.6 revenue generated.
-
+- The Large Size pizza is the most popular among customers, with a total of 18,526 orders placed for it. The restaurant sold 18,956 quantities of this pizza size, generating revenue of $375,318.7. In contrast, the least popular pizza size is XXL, with only 28 orders and 28 quantities sold, resulting in revenue of $1,006.6.
 
 ![2](https://user-images.githubusercontent.com/123791304/235463614-00cecfb6-900f-472d-90dd-4f5027a68bf8.jpg)
 
-- July is the top performing month with a total of 4,301 orders, 4,392 pizzas sold and revenue generation of $72,557.9. The least performing month is October with 3,797 orders, 3,883 quantities of pizza sold and revenue generation of $64,027.6.
+- The month of July is the most successful, with a total of 4,301 orders placed and 4,392 pizzas sold, generating revenue of $72,557.9. On the other hand, the month of October is the least successful, with only 3,797 orders placed and 3,883 pizzas sold, resulting in revenue of $64,027.6.
 
 ![image](https://user-images.githubusercontent.com/123791304/235464579-86ee0cf0-c406-496c-b106-41fa2929449c.png)
 
-- Our overall best selling pizza is The Classic Deluxe Pizza. It was ordered 2,416 times, a total of 2,453 quanties was sold and it generated revenue of $38,180.5. The worst selling pizza is The Brie Carre Pizza	with a total of just 480 orders, 490 quantities made and revenue of	$11,588.5.
+- The Classic Deluxe Pizza is our most popular pizza overall. It has been ordered 2,416 times, with a total of 2,453 pizzas sold, resulting in revenue of $38,180.5. In contrast, the worst-selling pizza is The Brie Carre Pizza, with only 480 orders and 490 pizzas sold, generating revenue of $11,588.5.
 
 ![4](https://user-images.githubusercontent.com/123791304/235464983-bfbb7f15-3d48-4988-8979-f53e20760be6.jpg)
 
-- The busiest days are Fridays and Saturdays (Beginning of the weekend). With Fridays having a total of 8,106 orders, 8,242 quantities of pizzas made, and revenue generation of $136,073.9. While on Saturdays, orders received was 7,355, with a total of 7,493 pizzas made and revenue generation of $123,182.4.
+- The busiest days of the week are Friday and Saturday, which mark the beginning of the weekend. On Fridays, the restaurant received a total of 8,106 orders, made 8,242 pizzas, and generated revenue of $136,073.9. Saturdays are also busy, with a total of 7,355 orders received, 7,493 pizzas made, and revenue generated totaling $123,182.4.
 
 ![5](https://user-images.githubusercontent.com/123791304/235464991-ad47a393-ee5c-4004-95d0-afb258c102b2.jpg)
 
-- The pizza category which is most in demand is the Classic	with 14,579 orders placed for it, 14,888 quantities sold and	$22,0053.1 revenue generated.
+- The Classic pizza category is the most popular, with 14,579 orders placed for it. The restaurant sold a total of 14,888 pizzas from this category, resulting in revenue of $220,053.1.
 
 ![6](https://user-images.githubusercontent.com/123791304/235465508-ec0c5d88-c4e5-4c50-a274-5e1b380af24b.jpg)
 
@@ -102,4 +101,6 @@ Average_revenue - $16.82
 
 
 # Conclusion
-Pizza orders and revenue maintains an upward trajectory from the beginning of the week Sunday and peaks on Friday before it starts dropping, this means most people prefer to eat pizza towards and during the weekend. Most people prefer to have the Pepperoni pizza for lunch on Fridays. It is advisable to make available tables and chairs to be able to accomodate the influx of the weekend, we can also explore the option of delivery services. The Ingrdients for  Pepperoni pizza should be made readily available and in large quantities on or before Fridays. Since more orders are received on Fridays, a discount policy can be introduced every last Friday of the month where a customer gets 1 extra pizza when they buy 3 and above, this will encourage them to buy more. 
+Pizza orders and revenue typically increase steadily from Sunday and peak on Friday before starting to decline, indicating that many people prefer to eat pizza towards and during the weekend. On Fridays, most people prefer to have the Pepperoni pizza for lunch. Therefore, it is advisable to make tables and chairs available to accommodate the expected weekend influx of customers, and exploring delivery services is also a good option. Also, the pizza menu needs a little trim removing the least popular pizza and the company would greatly benefit from seasonal and weekday promotions to keep customer engagement.  
+
+To meet the demand for Pepperoni pizza on Fridays, it's essential to ensure that its ingredients are readily available and in large quantities before the day. Since more orders are received on Fridays, it could be beneficial to introduce a discount policy on the last Friday of every month. This policy could give customers an extra pizza when they buy three or more, encouraging them to buy more and increasing revenue.
