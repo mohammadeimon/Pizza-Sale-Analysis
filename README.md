@@ -47,7 +47,7 @@ This pizza sales dataset make up 12 relevant features:
 
 Analysis was done on SQL and visualized on Tableau. I used SQL to extract, transform and convert the Pizza data. I uploaded the dataset first on SQL Server where I did all the analysis before visualizing it on Tableau.
 
-This is the full [Analysis]((https://github.com/mohammadeimon/SQLProjects/blob/main/PizzaRestaurant.sql))
+This is the full [Analysis](https://github.com/mohammadeimon/SQLProjects/blob/main/PizzaRestaurant.sql)
 
 # Findings
 
